@@ -13,15 +13,7 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-h1{
-    
-    color: crimson;
-    padding-top: 400px;
-    text-align: center;
-    
-    
 
-}
 nav{
     height: 50px;
     width: 100%;
@@ -130,4 +122,11 @@ nav ul li a:hover, a.active{
 .amount{
     display: flex;
     justify-content: space-between;
+}
+.greetings{
+    color: rgb(230, 19, 61);
+    text-align: center;
+    margin-top: 350px;
+    background-color: cyan;
+   
 }
